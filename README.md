@@ -8,7 +8,7 @@ O programa simula o cadastro de diferentes tipos de produtos, cada um com compor
 
 - Cadastro de produtos comuns, usados e importados.
 - Uso de classes derivadas com herança da superclasse `Produto`.
-- Sobrescrita do método `Etiqueta()` para alterar a exibição das informações com base no tipo do produto.
+- Sobrescrita de métodos.
 - Uso de polimorfismo para tratar todos os objetos como `Produto` e invocar o método sobrescrito corretamente.
 
 ## 🛠️ Tecnologias Utilizadas
